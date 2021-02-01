@@ -30,7 +30,7 @@ We'll also write methods that leverage these properties.
 
 ```js
 class Cat {
-  //...
+  //... 
 }
 
 class Dog {
